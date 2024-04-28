@@ -1,7 +1,7 @@
 # Хронометраж двух конкурентных задач с помощью
 # декоратора
 import asyncio
-from util.async_timer import async_timed
+from Asyncio_i_konkurentnoe_programmirovanie.util.async_timer import async_timed
 
 
 @async_timed()

@@ -1,6 +1,6 @@
 # Получение доступа к циклу событий
 import asyncio
-from util.delay_functions import delay
+from Asyncio_i_konkurentnoe_programmirovanie.util.delay_functions import delay
 
 
 def call_later():

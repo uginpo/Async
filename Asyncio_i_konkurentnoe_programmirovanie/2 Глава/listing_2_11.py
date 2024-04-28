@@ -1,7 +1,7 @@
 # Снятие задачи
 import asyncio
 from asyncio import CancelledError
-from util.delay_functions import delay
+from Asyncio_i_konkurentnoe_programmirovanie.util.delay_functions import delay
 
 
 async def main() -> None:
